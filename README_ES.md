@@ -72,14 +72,13 @@ Proponemos los siguientes *projects* para empezar:
 |[Identity Registry](projects/IdentityRegistry/README_ES.md)| Un sistema de registro de identidad basado en [Proof of Humanity](https://www.proofofhumanity.id) pero que use *HUD* para mejorarlo en lo que respecta a governanza, escalabilidad y coste.|
 |[Staking](projects/Staking/README_ES.md)| Un sistema de staking que proporciona un nuevo parametro de reputacion que la DAO pueda usar como criterio extra en la asignacion de determinados roles o projectos a ciudanos. |
 
-
-### Como crear o asignarse un `emblema`
+### Como crear o obtener un `emblema`
 
 Crear una `guild` significa que la DAO reconoce la necesidad de un determinada habilidad, especializacion o rol dentro de la DAO. Crear una `project` significa que la DAO reconoce la necesidad de empezar un nuevo project o tarea determinada, y destinar recursos a la misma.
 
-Si un ciudadano desea unirse a una `guild` o a un `project`, debe de proponer su candidatura a la comunidad y convencer a la DAO 
+Si un ciudadano desea unirse a una `guild` o a un `project`, debe de proponer su candidatura publicamente a la comunidad y someterse al criterio de seleccion que la DAO requiera. Es decir, tiene que convencer a la DAO.
 
-En cualquiera de los casos, la DAO tiene aprobar una transaccion que cree o asigne un `emblema`. Como toda votacion, se recomienda primero proponer la idea a la comunidad en el [foro](https://forum.humanityunchained.org/), para su posterior votacion off-chain y, finalmente, votacion on-chain.
+En cualquiera de los casos, la DAO tiene aprobar democraticamente una transaccion que cree o asigne un `emblema`. Como toda votacion, se recomienda primero proponer la idea a la comunidad en el [foro](https://forum.humanityunchained.org/), para su posterior votacion off-chain y, finalmente, votacion on-chain.
 
 
 ## Otras mejoras tecnicas
@@ -116,9 +115,9 @@ Cada semana se celebraran votaciones on-chain en determinados dias. Ilustramos e
 | |5| Asignar emblemas de tipo `guild` a nuevos candidatos elegidos off-chain.|
 | |6| Crear un nuevo `emblema` de tipo `project` para realizar un nuevo proyecto.|
 | |7| Asignar el nuevo `project` a los candidatos elegidos off-chain.
-|2|1| Expulsion de un miembro de la DAO por conducta deshonesta hacia la comunidad|
+|2|1| Expulsion de un miembro de la DAO por conducta deshonesta hacia la comunidad.|
 
-Como normal general, se agruparan en una misma votacion las transacciones que se tengan una alta probabilidad de ser aceptadas. Esto se puede estimar a traves de una votacion off-chain previamente celebrada durante la semana.Transacciones cuyo veredicto final no este claro (p.ej. la expulsion de un miembro de la DAO debido a un tema controvertido que divida a la comunidad), se votaran en una votaciones a parte.
+Como normal general, se agruparan en una misma votacion las transacciones que tengan una alta probabilidad de ser aceptadas. Esto se puede estimar a traves de una votacion off-chain previamente celebrada durante la semana.Transacciones cuyo veredicto final no este claro (p.ej. la expulsion de un miembro de la DAO debido a un tema controvertido que divida a la comunidad), se votaran en una votaciones a parte.
 
 
 ## Calendario

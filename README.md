@@ -72,6 +72,15 @@ We propose the following guilds to start with:
 |[Staking](projects/Staking/README.md)| HUD token holders would receive reputational tokens that may be used by the DAO as an additional criteria for citizens to opt certain roles or execute certain tasks. |
 
 
+### How to create or get an `emblem`
+
+Creating a `guild` implies that the DAO acknowledges the need for a certain skill, specialization or role inside the DAO. Creating a `project` implies that the DAO acknowledges the need to start a new project or task, and to allocate resources for it.
+
+If a citizen wants to join a `guild` or a `project`, he or she needs to publicly TODO .... Screening process that the DAO requires. In other words, he or she needs to convince the DAO.
+
+In any case, the DAO will need to democratically approve a transaction to create or transfer the `emblem` token. As for every voting, it is recommended to first propose your idea to the community in the [forum](https://forum.humanityunchained.org/), so it can be later voted off-chain and, lastly, voted on-chain.
+
+
 ### Other technical improvements
 
 See HUD's GitHub issues [here](https://github.com/hhh01398/hud/issues). The issue [#16 Support multiple transactions in a single voting](https://github.com/hhh01398/hud/issues/16) is paramount to move forward faster and deploy the smart contracts earlier.
