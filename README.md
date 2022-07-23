@@ -22,11 +22,10 @@ This means that, in such world, every human being has not only the right but als
 
 Our goal is:
 
-```
-To accelerate the transaction to the New Free World (NFW) by building the first network state, so it can be replicated and improved by others. For that, this state will use [Humanity Unchained DAO (HUD)](https://humanityunchained.org) as the technological tool needed for its development.
+> To accelerate the transaction to the New Free World (NFW) by building the first network state, so it can be replicated and improved by others. For that, this state will use [Humanity Unchained DAO (HUD)](https://humanityunchained.org) as the technological tool needed for its development.
+>
+> We strongly believe we need to achieve the NFW urgently before humanity crosses the *point of no return* that will trap humanity in a technocratic dystopia.
 
-We strongly believe we need to achieve the NFW urgently before humanity crosses the *point of no return* that will trap humanity in a technocratic dystopia.
-```
 
 ### Implementation
 
@@ -67,17 +66,20 @@ We propose the following guilds to start with:
 
 |Name|Goal and description|
 | --- | --- |
-|[Genesis Tokens](projects/GenesisTokens/README.md)| A way to commemorate the birth of Humanity Unchained DAO by selling a limited number of tokens on an auction. The value of the tokens will be, in principle, solely honorific and artistic. The funds will be owned by the DAO.<br /><br />**Important:** It is to be decided by the DAO what kind of reward (if any at all) will the holders of the token receive on exchange in the future. Therefore, token buyers seeking for an investment should expect **nothing** from their purchase apart from the token itself and the community's gratitude.|
+|[Genesis Tokens](projects/GenesisTokens/README.md)| A way to commemorate the birth of Humanity Unchained DAO by selling a limited number of tokens on an auction. The value of the tokens will be solely honorific and/or artistic. We propose to allocate part of the funds in the [UBI Burning Vault](http://app.democracy.earth/).|
 |[Emmental](projects/Emmental/README.md)|The goal of the **Emmental Project** is to create a geographical concentration of [Humanity Unchained DAO](https://humanityunchained.org) citizens in specific regions of legacy states in order to achieve, through exercising their legal right to move freely within the boards of their legacy states, a political majority in alignment with the principles of the DAO. This idea is inspired by the [Free State Project](https://en.wikipedia.org/wiki/Free_State_Project).|
 |[Identity Registry](projects/IdentityRegistry/README.md)| A better identity registry system than [Proof of Humanity](https://www.proofofhumanity.id) that can better serve for the DAO's goal in terms of governance, scalability and cost. |
 |[Staking](projects/Staking/README.md)| HUD token holders would receive reputational tokens that may be used by the DAO as an additional criteria for citizens to opt certain roles or execute certain tasks. |
 
 
+### Other technical improvements
+
+See HUD's GitHub issues [here](https://github.com/hhh01398/hud/issues). The issue [#16 Support multiple transactions in a single voting](https://github.com/hhh01398/hud/issues/16) is paramount to move forward faster and deploy the smart contracts earlier.
+
+
 ### Schedule
 
 The following is an orientative schedule. Community Calls will be hold on the Telegram groups. Off-chain voting will be done in snapshot.org.
-
-**Note**: Change on the schedule may be announced on short notice, so stay tune for any updates.
 
 |Event|Details|
 | --- | --- |
@@ -88,10 +90,7 @@ The following is an orientative schedule. Community Calls will be hold on the Te
 |On-chain voting start| Saturday|
 |On-chain voting ends| Monday|
 
-
-### Other technical improvements
-
-See HUD's tickets here.
+**Note**: Change on the schedule may be announced on short notice, so stay tuned for any updates.
 
 
 ## Calendar
@@ -100,5 +99,5 @@ See HUD's tickets here.
 
 |Milestone|Estimated Date|Status|
 | --- | --- | --- |
-|Voting for deployment of *multiple-transactions-per-voting* feature | 07-23 Sat | On-schedule |
-|Voting for:<br />- NFT tokens minting<br />- PoH oracle update<br />- Technical improvements | 08-05 Sat | On-schedule |
+|Voting of [#16 Support multiple transactions in a single voting](https://github.com/hhh01398/hud/issues/16) |
+|Voting of:<br />- Genesis Token minting<br />- Emblems minting<br />- PoH oracle update<br />- Technical improvements | 08-05 Sat | On-schedule |
